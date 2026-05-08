@@ -6,4 +6,5 @@ a simple list of what has been debug/fixed:
 - set missing sfx for crytal types
 - Built all lights
 - Enabled tick on the player
+- start and stop look at interactible not being defined
 
