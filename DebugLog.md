@@ -8,3 +8,5 @@ a simple list of what has been debug/fixed:
 - Enabled tick on the player
 - start and stop look at interactible not being defined
 - door animation plays when 3 crystals are found
+- Crystal outlines properly update now
+- Pedestal lamp goes back to neutral when empty
