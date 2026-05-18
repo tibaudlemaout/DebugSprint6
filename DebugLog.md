@@ -10,3 +10,7 @@ a simple list of what has been debug/fixed:
 - door animation plays when 3 crystals are found
 - Crystal outlines properly update now
 - Pedestal lamp goes back to neutral when empty
+- door coliision 
+- master volume set to 0,
+- crystal attenuation with no range
+- 
